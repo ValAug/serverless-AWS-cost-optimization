@@ -1,6 +1,7 @@
 <h2><span style="color: #2B98F0;">Serverless AWS Cost Optimization</span></h2>
+<kbd>
 #<span style="color: #2B98F0;">Serverless AWS Cost Optimization</span>
-
+</kbd>
 
 
  ![Gateway](https://github.com/ValAug/Serverless_AWS_Cost_Optimization/blob/main/Diagram_Picture/cron-job.png)
