@@ -4,15 +4,15 @@ This GitHub repository showcases the powerful trio of Terraform, AWS Lambda, and
 # Key Features
 Infrastructure as Code: The repository provides Terraform configurations to define your AWS infrastructure in a declarative manner, making it easy to version, manage, and reproduce your environment.
 
-* ##Lambda Functions: Discover how to create serverless functions using AWS Lambda to perform specific tasks in response to events, such as processing incoming data or triggering automated actions.
+* __Lambda Functions:__ Discover how to create serverless functions using AWS Lambda to perform specific tasks in response to events, such as processing incoming data or triggering automated actions.
 
-* Event Bridge: Learn how to leverage AWS Event Bridge to establish event-driven architectures, enabling decoupled communication between different services and facilitating efficient cost optimization through event filtering and routing.
+* __Event Bridge:__ Learn how to leverage AWS Event Bridge to establish event-driven architectures, enabling decoupled communication between different services and facilitating efficient cost optimization through event filtering and routing.
 
-* Cost Optimization Techniques: Explore various techniques for AWS cost optimization, including intelligent resource scaling, serverless architecture design patterns, efficient event routing, and usage-based cost analysis.
+* __Cost Optimization Techniques:__ Explore various techniques for AWS cost optimization, including intelligent resource scaling, serverless architecture design patterns, efficient event routing, and usage-based cost analysis.
 
-* Sample Workflows: Find practical examples of cost optimization workflows that combine Terraform, Lambda functions, and Event Bridge rules to automate common tasks, minimize resource usage, and reduce unnecessary costs.
+* __Sample Workflows:__ Find practical examples of cost optimization workflows that combine Terraform, Lambda functions, and Event Bridge rules to automate common tasks, minimize resource usage, and reduce unnecessary costs.
 
-# AWS VPC-e Gateway diagram 
+# Diagram 
 ![serverless]()
 ###### Cloud - :cloud:
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FF9900)
