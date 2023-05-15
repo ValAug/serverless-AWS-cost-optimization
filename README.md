@@ -1,7 +1,7 @@
 # Serverless AWS Cost Optimization
 
 <p align="center">
-  <img src="(https://github.com/ValAug/Serverless_AWS_Cost_Optimization/blob/main/Diagram_Picture/cron-job.png)" alt="serverless">
+ ![Gateway](https://github.com/ValAug/Serverless_AWS_Cost_Optimization/blob/main/Diagram_Picture/cron-job.png)"
 </p>
 
 <p align="center">
