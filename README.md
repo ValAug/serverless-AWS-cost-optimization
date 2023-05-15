@@ -1,8 +1,8 @@
 # Serverless AWS Cost Optimization
 
-<p align="center">
- ![Gateway](https://github.com/ValAug/Serverless_AWS_Cost_Optimization/blob/main/Diagram_Picture/cron-job.png)"
-</p>
+
+ ![Gateway](https://github.com/ValAug/Serverless_AWS_Cost_Optimization/blob/main/Diagram_Picture/cron-job.png)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FF9900" alt="AWS">
