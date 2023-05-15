@@ -1,6 +1,5 @@
-<h2><span style="color: #2B98F0;">Serverless AWS Cost Optimization</span></h2>
 <kbd>
-#<span style="color: #2B98F0;">Serverless AWS Cost Optimization</span>
+<h2><span style="color: #2B98F0;">Serverless AWS Cost Optimization</span></h2>
 </kbd>
 
 
@@ -14,7 +13,7 @@
 
 This GitHub repository showcases the powerful trio of Terraform, AWS Lambda, and Event Bridge for achieving cost optimization in your AWS infrastructure. With a focus on automation and intelligent strategies, you can effectively reduce AWS expenditure without compromising performance or functionality.
 
-## Key Features
+## 🔑 Key Features
 
 - **Infrastructure as Code:** Define your AWS infrastructure in a declarative manner using Terraform configurations, enabling easy versioning, management, and environment reproducibility.
 
@@ -26,20 +25,20 @@ This GitHub repository showcases the powerful trio of Terraform, AWS Lambda, and
 
 - **Sample Workflows:** Find practical examples of cost optimization workflows that combine Terraform, Lambda functions, and Event Bridge rules. These workflows automate common tasks, minimize resource usage, and reduce unnecessary costs.
 
-## Prerequisites
+## ⚡️ Prerequisites
 
 - You must have an AWS account and configure your CLI profile.
 - Terraform must be installed. [Learn how to install Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
-## Cautions
+## ⚠️ Cautions
 
 - As an AWS best practice, grant this code least privilege, providing only the necessary permissions to perform a task. For more information, see [Grant Least Privilege](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#grant-least-privilege) in the *AWS Identity and Access Management User Guide*.
 - This code has been tested in the __us-east-1__ AWS Region only. However, it should work in any other region.
 - Running this code may result in charges to your AWS account.
 
-## How to Run This Code
+## ▶️ How to Run This Code
 
-### Quick Start
+### 🚀 Quick Start
 
 ```bash
 cd vpc-endpoint-connection-with-s3
