@@ -1,5 +1,5 @@
 <h2><span style="color: #2B98F0;">Serverless AWS Cost Optimization</span></h2>
-# <span style="color: #2B98F0;">Serverless AWS Cost Optimization</span>
+#<span style="color: #2B98F0;">Serverless AWS Cost Optimization</span>
 
 
 
