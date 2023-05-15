@@ -27,6 +27,7 @@ This GitHub repository showcases the powerful trio of Terraform, AWS Lambda, and
 
 - You must have an AWS account and configure your CLI profile.
 - Terraform must be installed. [Learn how to install Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
+- ## Please first completed this part one. [Part one EC2 Creation](https://github.com/ValAug/aws-compu-terraform)
 
 ## ⚠️ Cautions
 
@@ -39,7 +40,7 @@ This GitHub repository showcases the powerful trio of Terraform, AWS Lambda, and
 ### 🚀 Quick Start
 
 ```bash
-cd vpc-endpoint-connection-with-s3
+cd Serverless_AWS_Cost_Optimization
 terraform init
 terraform validate
 terraform plan
