@@ -4,7 +4,7 @@ This GitHub repository showcases the powerful trio of Terraform, AWS Lambda, and
 # Key Features
 Infrastructure as Code: The repository provides Terraform configurations to define your AWS infrastructure in a declarative manner, making it easy to version, manage, and reproduce your environment.
 
-* Lambda Functions: Discover how to create serverless functions using AWS Lambda to perform specific tasks in response to events, such as processing incoming data or triggering automated actions.
+* ##Lambda Functions: Discover how to create serverless functions using AWS Lambda to perform specific tasks in response to events, such as processing incoming data or triggering automated actions.
 
 * Event Bridge: Learn how to leverage AWS Event Bridge to establish event-driven architectures, enabling decoupled communication between different services and facilitating efficient cost optimization through event filtering and routing.
 
