@@ -40,7 +40,7 @@ This GitHub repository showcases the powerful trio of Terraform, AWS Lambda, and
 ## 🚀 Quick Start
 
 ```bash
-cd Serverless_AWS_Cost_Optimization
+cd serverless_AWS_cost_optimization
 terraform init
 terraform validate
 terraform plan
@@ -55,7 +55,8 @@ terraform destroy --auto-approve
 ## 📌 Notes
 ```bash
 - clone this Git repo
-- cd to the the directory Serverless_AWS_Cost_Optimization
+- cd to the the directory serverless_AWS_cost_optimization
+- copy __EC2_ID's__ from previous deployment and paste them each on __start.py__ and __stop.py__ place holders
 - use terraform __init__ command to initialize the Terraform working directory and to download plugins for a provider (aws)
 - terraform validate command will validate the code before actual deployment
 - terraform plan command will show the execution code before making the actual deployment
