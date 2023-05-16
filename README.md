@@ -27,7 +27,7 @@ This GitHub repository showcases the powerful trio of Terraform, AWS Lambda, and
 
 - You must have an AWS account and configure your CLI profile.
 - Terraform must be installed. [Learn how to install Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
-- ## Please first completed part one you will need the EC2 instance ID's. [Part one EC2 Creation](https://github.com/ValAug/aws-compu-terraform)
+- ## Please first completed part one you will need the EC2 instance ID's i-xxxxxxxxxxxxx. [Part one EC2 Creation](https://github.com/ValAug/aws-compu-terraform)
 
 ## ⚠️ Cautions
 
