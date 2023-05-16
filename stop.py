@@ -1,6 +1,6 @@
 import boto3
 
-region = "us-east-1"
+region = "us-west-2"
 instance_ids = ["i-ec2id-from-previous-deployment"]
 
 def stop_instances(instance_ids, region):
