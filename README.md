@@ -53,7 +53,7 @@ terraform destroy --auto-approve
 ```
 
 ## 📌 Notes
-
+```bash
 - clone this Git repo
 - cd to the the directory Serverless_AWS_Cost_Optimization
 - use terraform __init__ command to initialize the Terraform working directory and to download plugins for a provider (aws)
@@ -64,3 +64,4 @@ terraform destroy --auto-approve
 - terraform destroy
 - Alternate command : terraform destroy -auto-approve
 - terraform fmt -recursive # A way to format the terraform code
+```
