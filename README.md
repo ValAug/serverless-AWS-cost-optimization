@@ -1,3 +1,9 @@
+<!-- retro visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/serverless-AWS-cost-optimization/count.svg" />
+</p>
+
+
 <p align="center">
 <h2><span style="color: #2B98F0;">Serverless AWS Cost Optimization</span></h2>
 </p>
